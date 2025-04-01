@@ -1,8 +1,7 @@
 <html>
 <body>
-<h1 style="background-color:#FFEE8C;">Introducing Minions</h1>
   <p style="background-color:#FFEE8C;">
-    Bello!
+    ahhhhhhhhhh
   </p>
 </body>
 <br>
@@ -10,15 +9,9 @@
 <table>
 <tr>  
 <td>
-<img src="https://lson300.github.io/homepage/images/minion4.jpg">
+<img src="https://lson300.github.io/homepage/images/minion3.jpg">
 </td>
 </tr>
-</table>
-<table>
-<tr>
-<td>
-<img src="https://lson300.github.io/homepage/images/minion2.jpg">
-</td>
 </table>
 <style>
   body {

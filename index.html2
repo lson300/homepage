@@ -1,0 +1,32 @@
+<html>
+<body>
+<h1 style="background-color:#FFEE8C;">Introducing Minions</h1>
+  <p style="background-color:#FFEE8C;">
+    Bello!
+  </p>
+</body>
+<br>
+<br>
+<table>
+<tr>  
+<td>
+<img src="https://lson300.github.io/homepage/images/minion4.jpg">
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td>
+<img src="https://lson300.github.io/homepage/images/minion2.jpg">
+</td>
+</table>
+<style>
+  body {
+      background-image: url("https://lson300.github.io/homepage/images/wall1.avif");
+      background-repeat: repeat;
+      color:#615A35;
+      font-size: 30px;
+      font-family: Minion;
+      }
+</style>
+</html> 
